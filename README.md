@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 👋 About Me<br><br>🛠️ I'm currently working on:  <br>Personal and open-source projects in AI, ML, and Python development<br><br>🤝 I'm looking to collaborate on:  <br>Projects that solve real-world problems using technology<br><br>🧠 I'm currently learning:  <br>Machine Learning, Deep Learning, and Full-Stack Development<br><br>💬 Ask me about:  <br>Python, AI/ML, Computer Vision, or anything tech-related<br><br>⚡ Fun fact:  <br>I love exploring how creative ideas can turn into real-world tech solutions!
 
 

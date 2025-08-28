@@ -86,6 +86,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Deepender25/Deepender25/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</picture>
+
 
 ###
